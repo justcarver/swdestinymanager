@@ -7,5 +7,9 @@
     "test": "test"
   },
   "author": "Justin Carver",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
 }
