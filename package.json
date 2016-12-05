@@ -1,0 +1,11 @@
+{
+  "name": "swdestiny.io",
+  "version": "1.0.0",
+  "description": "An app for managing your SW: Destiny collection",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Justin Carver",
+  "license": "MIT"
+}
